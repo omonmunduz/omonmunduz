@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Freelance projects
+- 🔭 I’m currently working on ... Freelance projects 
 - 🌱 I’m currently learning ...  Serverless functions
 - 👯 I’m looking to collaborate on ... any interesting JAMstack prjoject :)
 - 🤔 I’m looking for help with ... Common Crawl
