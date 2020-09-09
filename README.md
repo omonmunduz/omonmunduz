@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on ... Freelance projects 
 - 🌱 I’m currently learning ...  Serverless functions
 - 👯 I’m looking to collaborate on ... any interesting JAMstack prjoject :)
-- 🤔 I’m looking for help with ... Common Crawl
+- 🤔 I’m looking for help with ... React Spring
 - 💬 Ask me about ...  converting your existing project to JAMstack
 - 📫 How to reach me: ... omurbekn@gmail.com
 - 😄 Pronouns: ... He/Him
