@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on this https://jamstack312-auth.netlify.app/
+- 🔭 I’m currently working with React, Gatsby, Hasura and Netlify
 - 🌱 I’m currently learning ...  Serverless functions
 - 👯 I’m looking to collaborate on ... any interesting JAMstack prjoject :)
 - 🤔 I’m looking for help with ... React Spring
