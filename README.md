@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working with React, Gatsby, Hasura and Netlify
+- 🔭 I’m currently working with React, Gatsby, Hasura, Stripe and Netlify
 - 🌱 I’m currently learning  Serverless functions
 - 👯 I’m looking to collaborate on any interesting JAMstack prjoject :)
-- 🤔 I’m looking for help with React Spring
+- 🤔 I’m looking for help with JAMstack
 - 💬 Ask me about converting your existing project to JAMstack
 - 📫 How to reach me:omurbekn@gmail.com
 - 😄 Pronouns: He/Him
