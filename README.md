@@ -8,3 +8,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In Switzerland it is illegal to own just one guinea pig
 ![](https://komarev.com/ghpvc/?username=your-github-omonmunduz&color=green)
+
+![Omur's github stats](https://github-readme-stats.vercel.app/api?username=omonmunduz&show_icons=true)
