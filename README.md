@@ -7,7 +7,7 @@
 - 📫 How to reach me:omurbekn@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In Switzerland it is illegal to own just one guinea pig
-![](https://komarev.com/ghpvc/?username=your-github-omonmunduz&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-omonmunduz&color=blue)
 
 ![Omur's github stats](https://github-readme-stats.vercel.app/api?username=omonmunduz&show_icons=true)
 ![Omur's github stats](https://github-readme-stats.vercel.app/api?username=omonmunduz&show_icons=true&theme=tokyonight)
