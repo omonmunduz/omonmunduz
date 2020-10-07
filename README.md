@@ -10,3 +10,4 @@
 - ⚡ Fun fact: In Switzerland it is illegal to own just one guinea pig
 
 ![Omur's github stats](https://github-readme-stats.vercel.app/api?username=omonmunduz&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omonmunduz)](https://github.com/omonmunduz/github-readme-stats)
