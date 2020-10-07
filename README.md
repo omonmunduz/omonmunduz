@@ -10,3 +10,4 @@
 ![](https://komarev.com/ghpvc/?username=your-github-omonmunduz&color=green)
 
 ![Omur's github stats](https://github-readme-stats.vercel.app/api?username=omonmunduz&show_icons=true)
+![Omur's github stats](https://github-readme-stats.vercel.app/api?username=omonmunduz&show_icons=true&theme=highcontrast)
