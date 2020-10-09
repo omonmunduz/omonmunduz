@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=your-github-omonmunduz&color=blue)
 ### Hi there 👋
 - 🔭 I’m currently working with React, Gatsby, Hasura, Stripe and Netlify
 - 🌱 I’m currently learning  Serverless functions
