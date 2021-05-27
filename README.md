@@ -7,7 +7,8 @@
 - ⚡ Fun fact: In Switzerland it is illegal to own just one guinea pig
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omonmunduz)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omonmunduz&hide=contribs,prs)
+
 
 
 
