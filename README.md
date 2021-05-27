@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In Switzerland it is illegal to own just one guinea pig
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omonmunduz&layout=compact)]
+
 
 
 
